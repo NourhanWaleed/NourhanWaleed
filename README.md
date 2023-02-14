@@ -3,11 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourhanwaleed" alt="nourhanwaleed" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mynamesnothanna" target="blank"><img src="https://img.shields.io/twitter/follow/mynamesnothanna?logo=twitter&style=for-the-badge" alt="mynamesnothanna" /></a> </p>
 
-- 🔭 I’m currently working on **Inventory Manager**
+- 🔭 I’m currently working on **Violence Detection System**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NourhanWaleed](https://github.com/NourhanWaleed)
 
